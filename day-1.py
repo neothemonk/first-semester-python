@@ -16,6 +16,7 @@ id_mtrx(-2) ➞ [
 ]
 
 id_mtrx(0) ➞ []
+"""
 
 def id_mtrx(n):
     identity_matrix = []
@@ -34,5 +35,5 @@ def id_mtrx(n):
 
 
 print(id_mtrx(0))
-"""
+
 
